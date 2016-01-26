@@ -1,3 +1,5 @@
-Hello world <br>
-kjhds
-<?php echo uniqid(); 
+<?php
+
+$var = 2;
+
+echo $var;
